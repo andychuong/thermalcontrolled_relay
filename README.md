@@ -1,7 +1,8 @@
 Thermal Controlled Relay
 ========================================
+
 Arduino code for a relay controlled by the temperature given by a thermal probe. This was used to turn a hacked oven on and off to melt plastic based on the oven's temperature.
-========================================
+
 
 Components
 -------------------
