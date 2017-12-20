@@ -3,7 +3,7 @@ Thermal Controlled Relay
 
 Arduino code for a relay controlled by the temperature given by a thermal probe. This was used to turn a hacked oven on and off to melt plastic based on the oven's temperature.
 
-<img src="https://raw.githubusercontent.com/andychuong/thermalcontrolled_relay/master/Fritzing/thermalcoupler_bb.png" alt="Fritzing Diagram" style="max-width:50%"/>
+<img src="https://raw.githubusercontent.com/andychuong/thermalcontrolled_relay/master/Fritzing/thermalcoupler.png" alt="Fritzing Diagram" style="max-width:50%"/>
 
 Components
 -------------------
